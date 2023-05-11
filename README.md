@@ -1,2 +1,19 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz ilk repo
+
+fasdfasdfasdasdasffdasdfr
+
+## intallation
+
+afdadfasıdfhgsıuhgsad
+
+## Usage
+
+fvsdfasdfg asdfg
+
+
+
+## Contributing
+
+gdsafgadfsgdgf
+
+## Lisence
